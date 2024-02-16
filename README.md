@@ -1,7 +1,7 @@
 # fast-api-server
 
 
-Dev: Mahith Chigurupati
+Dev: Mahith Chigurupati </br>
 Email - mahithchigurupati@gmail.com
 
 ## instructions to run the project
