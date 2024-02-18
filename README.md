@@ -1,6 +1,6 @@
 # fast-api-server
 
-This is a basic FastAPI server implemented using JWT OAuth2.0 and postgres SQL via `sqlalchemy` ORM.
+This is a basic FastAPI server implemented using JWT OAuth2.0 and postgreSQL via `sqlalchemy` ORM.
 
 ## Instructions to run the project
 
